@@ -84,10 +84,4 @@ This project analyzes Amazon sales data by following a complete data pipeline fr
 ---
 
 ## 🎯 Conclusion
-This project demonstrates a complete data analysis workflow:
-Excel → Python → Power BI
-
----
-
-## 📌 Author
-Your Name
+This project demonstrates a complete data analysis of Sales 
