@@ -7,7 +7,8 @@ This project analyzes Amazon sales data by following a complete data pipeline fr
 
 ## 📊 Dashboard Preview
 
-![Amazon Dashboard](Dashboard.pdf)
+![Amazon Dashboard](Dashboard.png)
+
 
 ## 🔄 Project Workflow (Step-by-Step)
 
