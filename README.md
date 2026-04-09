@@ -5,10 +5,12 @@ This project analyzes Amazon sales data by following a complete data pipeline fr
 
 ---
 
+![Dashboard Preview](Dashboardd.png)
+
 ## 🔄 Project Workflow (Step-by-Step)
 
-1. 📥 Raw Data (Excel)
-   - Initial dataset in Excel format (`amazon.xlsx`)
+1. 📥 Raw Data (csv)
+   - Initial dataset in Excel format (`amazon_sales.csv`)
 
 2. 🧹 Data Cleaning (Jupyter Notebook)
    - Loaded raw data into Python
